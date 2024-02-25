@@ -1,35 +1,34 @@
 
-title> garage v pajot</title>
+<title> garage v pajot</title>
 <link rel-"stylesheet" href-"style.css">
 </head>
-7
+
 <body>
 < header›
-10
-<h1> Les differents modeles proposés</h1>
-‹nav>
-11
-＜a href-"★">acceuil/ax
-12
-13
-‹a href-"*"›voitures</a›
-«a href-"*"›contact</a>
-1
-</nav
-</header>
-<main>
 
+<h1> Les differents modeles proposés</h1>
+<nav>
+
+<a href-"#">acceuil</a>
+
+<a href-"#"›voitures</a›
+<a href-"#"›contact</a>
+</nav>
+
+</header>
+
+<main>
 ‹div class="row">
 «div class-"post-text-box*>
 <h1 >les differents modeles</h1>
-‹ section>
-<h1> -LAND ROVER FREELA NDER SX 1120H 4X4 année :2000 diesel 184200km prix 7290 euros
--opel corsa 1.3 cdci 75 ch diesel année 2008 177220 km 4790 euros
--volvagen plo 1.5 tdi 75 ch année 2010 diesel 177261 km</h1>
-‹p> 2021. pepurs 2 ans ropose une large garie de sarvies Idparation de a carossere ide la micantue des volures ainsi
-iles reinin vien ar considere son atelie emme un veral les, le contien e pour es len et des.
-voitures doivent, selon lui, à tout prix être entre de bonnes mains. Bien qu'il fournisse grâce à ses employés un service de qualité et personnalisé à chaque client</p>
-‹/section>
+< section>
+  <p> -LAND ROVER FREELA NDER SX 1120H 4X4 année :2000 diesel 184200km prix 7290 euros<p>
+  <p>opel corsa 1.3 cdci 75 ch diesel année 2008 177220 km 4790 euros</p>
+<p>volvagen plo 1.5 tdi 75 ch année 2010 diesel 177261 km</p>
+<p>Vincent Parrot, fort de ses 15 années d'expérience dans la réparation automobile, a ouvert son propre garage à Toulouse en 2021.
+Depuis 2 ans, il propose une large gamme de services: réparation de la carrosserie et de la mécanique des voitures ainsi que leur entretien régulier pour garantir leur performance et leur sécurité. De plus, le Garage V. Parrot met en vente des véhicules d'occasion afin d'accroître son chiffre d'affaires.
+Vincent Parrot considère son atelier comme un véritable lieu de confiance pour ses clients et leurs voitures doivent, selon lui, à tout prix être entre de bonnes mains. </p>
+  </section>
 </dlvy
 «div class-"profile"> <h1 >horaire ouverture</h1>
 
@@ -40,10 +39,10 @@ voitures doivent, selon lui, à tout prix être entre de bonnes mains. Bien qu'i
 14:00 - 18:00<p>
 <p> jeu.:
 08:45 - 12:00, 14:00 - 18:00</p>
-<p>ven 08:45 - 12:00, 14:00 - 18:00<p> <p> sam. 08:45 - 12:00</p> dim.: fermée</p>
+<p>ven 08:45 - 12:00, 14:00 - 18:00</p> <p> sam. 08:45 - 12:00</p> dim.: fermée</p>
 </divy
 </div>
 </main>
 ‹footer>
-‹a href-"*"›Twitter</a> <a href-**"›Facebook</a>
-‹a href-"*"›Instagram</a>
+<a href-"#">Twitter</a> <a href-**"›Facebook</a>
+<a href-"#">Instagram</a>
