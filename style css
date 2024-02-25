@@ -29,7 +29,6 @@ nav {
    flex: 70%;
    padding: 20px;
 }
-/*profile image and heading style*/
 .profile img {
    width: 120px;
    display: block;
