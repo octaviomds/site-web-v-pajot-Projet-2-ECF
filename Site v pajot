@@ -1,8 +1,13 @@
 
 <title> garage v pajot</title>
-<link rel-"stylesheet" href-"style.css">
+<head> <link rel-"stylesheet" href-"style.css">
 </head>
-
+<head>
+‹meta charset="UTF-8">
+‹meta name="viewport" content="width=device-width, ini
+stitLexBootstraps/titlex
+<link rel="stylesheet" href="css/bootstrap.css">
+</head>
 <body>
 < header›
 
