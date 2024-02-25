@@ -1,32 +1,27 @@
+<h1> garage v pajot</h1> 
+                                                   <head> <link rel-"stylesheet" href-"style.css"><body>
 
-<title> garage v pajot</title>
-<head> <link rel-"stylesheet" href-"style.css">
-</head>
+                                                     <title1> Les differents modeles proposés</title1>
+<nav>
+
+<a href="#">acceuil</a>
+  <a href="#">voitures</a>
+<a href="#">contact</a>
+</nav>
 <head>
 ‹meta charset="UTF-8">
 ‹meta name="viewport" content="width=device-width, ini
 stitLexBootstraps/titlex
+<|-- ajouter bootstrap ici —>
 <link rel="stylesheet" href="css/bootstrap.css">
 </head>
-<body>
-< header›
-
-<h1> Les differents modeles proposés</h1>
-<nav>
-
-<a href-"#">acceuil</a>
-
-<a href-"#"›voitures</a›
-<a href-"#"›contact</a>
-</nav>
-
 </header>
 
 <main>
 ‹div class="row">
 «div class-"post-text-box*>
 <h1 >les differents modeles</h1>
-< section>
+
   <p> -LAND ROVER FREELA NDER SX 1120H 4X4 année :2000 diesel 184200km prix 7290 euros<p>
   <p>opel corsa 1.3 cdci 75 ch diesel année 2008 177220 km 4790 euros</p>
 <p>volvagen plo 1.5 tdi 75 ch année 2010 diesel 177261 km</p>
@@ -45,9 +40,15 @@ Vincent Parrot considère son atelier comme un véritable lieu de confiance pour
 <p> jeu.:
 08:45 - 12:00, 14:00 - 18:00</p>
 <p>ven 08:45 - 12:00, 14:00 - 18:00</p> <p> sam. 08:45 - 12:00</p> dim.: fermée</p>
-</divy
 </div>
-</main>
-‹footer>
-<a href-"#">Twitter</a> <a href-**"›Facebook</a>
-<a href-"#">Instagram</a>
+</main>                                       <footer>
+<a href-"#">Twitter</a> <a href="#">Facebook</a>
+  <a href-"#">Instagram</a>                    </footer>                                       <body>
+‹button>Bouton 1</button>
+‹button class="btn btn-primary">Bouton bootstrap</button>
+4
+<! -- d'abord jquery —>
+«script src="js/jquery-3.4.1.min-js"></script>
+<!-- puis bootstrap.js -=>
+«script src="js/bootstrap.is*></script> </body>
+</html>
