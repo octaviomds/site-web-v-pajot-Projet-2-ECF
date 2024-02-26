@@ -8,13 +8,13 @@
   <a href="#">voitures</a>
 <a href="#">contact</a>
 </nav>
-<head>
+<head><style>
 ‹meta charset="UTF-8">
 ‹meta name="viewport" content="width=device-width, ini
 stitLexBootstraps/titlex
 <|-- ajouter bootstrap ici —>
 <link rel="stylesheet" href="css/bootstrap.css">
-</head>
+</style> </head>
 </header>
 
 <main>
