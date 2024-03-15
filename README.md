@@ -6,3 +6,4 @@ Importer votre base de données
 Integrer un fichier css.      Intégrer le code directement dans la balise HTML avec l'attribut style.
 Intégrer le code directement dans le fichier HTML avec l'attribut style.
 Créer un fichier CSS externe et relié à la feuille HTML via la balise link.
+lien vers le site:  https://garagevpajot.com
